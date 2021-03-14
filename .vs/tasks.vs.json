@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-002 Add HTML, images and YouTube videos to articles",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
